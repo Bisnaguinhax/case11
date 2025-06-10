@@ -1,0 +1,14 @@
+# Requisitos do Projeto
+apache-airflow
+boto3
+cryptography
+Faker
+great-expectations
+minio
+numpy
+pandas
+psycopg2-binary
+pyspark
+python-dotenv
+SQLAlchemy
+urllib3

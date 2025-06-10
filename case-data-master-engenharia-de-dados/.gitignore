@@ -1,0 +1,20 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de backup e logs
+*.bak
+*.log
+project_backup_*
+logs/
+
+# Bancos de dados locais
+*.db
+*.sqlite3
